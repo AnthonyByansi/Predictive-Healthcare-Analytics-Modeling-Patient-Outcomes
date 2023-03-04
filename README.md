@@ -27,3 +27,10 @@ The project will follow the following approach:
 * Refine the model: If the model performance is not satisfactory, the project will refine the model by tweaking hyperparameters, feature selection, or feature engineering.
 
 * Deploy the model: Once the project has developed a model that meets the desired performance metrics, it will deploy the model into the clinical workflow. The model can help providers tailor treatment plans to individual patients and improve overall outcomes.
+
+## Deliverables
+The project will deliver the following:
+
+* A well-documented codebase for developing and deploying the predictive models.
+* A report summarizing the project's methodology, findings, and conclusions.
+* A dashboard or visualization tool to help providers interpret the model's output and make informed decisions.
