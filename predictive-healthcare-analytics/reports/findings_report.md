@@ -34,3 +34,6 @@ Based on the evaluation metrics, we found that the neural network model performe
 ## Model Refinement
 
 To improve the performance of the models, we performed further analysis and refinement. Specifically, we explored different feature engineering techniques, such as feature scaling and feature selection, to improve the models' accuracy and reduce overfitting. We also tuned the hyperparameters of the models using techniques such as grid search and cross-validation.
+
+## Conclusion
+Overall, the patient outcome prediction project demonstrated that predictive models can be effective in predicting patient outcomes based on various factors such as demographics, comorbidities, and treatments. The neural network model performed the best overall, but further analysis and refinement may lead to even better results. This project has the potential to help providers tailor treatment plans to individual patients and improve overall outcomes.
