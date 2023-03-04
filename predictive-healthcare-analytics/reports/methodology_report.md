@@ -26,3 +26,7 @@ In the data preparation phase, we cleaned the data, handled missing values and o
 ## Modeling
 
 In the modeling phase, we applied various machine learning algorithms, including logistic regression, decision tree, neural network, and random forest, to the training data. We fine-tuned the hyperparameters of each algorithm using cross-validation to obtain the best possible performance.
+
+## Evaluation
+
+In the evaluation phase, we evaluated the performance of each model using various metrics, including accuracy, precision, recall, F1 score, and ROC AUC score. We compared the performance of each model and selected the best performing model to be deployed.
