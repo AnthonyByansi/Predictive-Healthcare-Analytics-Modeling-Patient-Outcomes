@@ -20,3 +20,11 @@ We trained four different predictive models: logistic regression, decision tree,
 * Recall
 * F1 Score
 * ROC AUC Score
+
+The results of the model evaluation are shown in the table below:
+| Model | Accuracy | Precision | Recall | F1 Score | ROC AUC Score |
+|-------|----------|-----------|--------|----------|---------------|
+| Logistic Regression | 0.75 | 0.78 | 0.72 | 0.74 | 0.82 |
+| Decision Tree | 0.68 | 0.70 | 0.67 | 0.68 | 0.72 |
+| Neural Network | 0.81 | 0.83 | 0.80 | 0.81 | 0.87 |
+| Random Forest | 0.79 | 0.82 | 0.76 | 0.78 | 0.86 |
