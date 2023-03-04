@@ -17,3 +17,8 @@ In this phase, we identified the business problem that we are trying to solve. W
 ## Data Understanding
 
 In the data understanding phase, we obtained the necessary data and performed exploratory data analysis (EDA) to gain a better understanding of the data. We identified missing values, outliers, and potential issues with the data that would need to be addressed during the data preparation phase.
+
+
+## Data Preparation
+
+In the data preparation phase, we cleaned the data, handled missing values and outliers, and performed feature engineering to create new features that may be relevant for predicting patient outcomes. We also split the data into training and testing sets to prepare for the modeling phase.
