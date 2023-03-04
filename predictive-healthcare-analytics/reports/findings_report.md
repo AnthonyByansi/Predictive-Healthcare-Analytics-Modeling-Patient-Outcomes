@@ -28,3 +28,9 @@ The results of the model evaluation are shown in the table below:
 | Decision Tree | 0.68 | 0.70 | 0.67 | 0.68 | 0.72 |
 | Neural Network | 0.81 | 0.83 | 0.80 | 0.81 | 0.87 |
 | Random Forest | 0.79 | 0.82 | 0.76 | 0.78 | 0.86 |
+
+Based on the evaluation metrics, we found that the neural network model performed the best overall, with the highest accuracy, precision, recall, F1 score, and ROC AUC score. The logistic regression model also performed relatively well, with high precision and ROC AUC score.
+
+## Model Refinement
+
+To improve the performance of the models, we performed further analysis and refinement. Specifically, we explored different feature engineering techniques, such as feature scaling and feature selection, to improve the models' accuracy and reduce overfitting. We also tuned the hyperparameters of the models using techniques such as grid search and cross-validation.
