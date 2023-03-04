@@ -33,3 +33,7 @@ In the evaluation phase, we evaluated the performance of each model using variou
 
 ## Deployment
 In the deployment phase, we deployed the best performing model and provided a user interface for healthcare providers to input patient data and obtain a prediction for patient outcomes.
+
+## Conclusion
+
+In conclusion, we followed the CRISP-DM methodology to develop machine learning models that predict patient outcomes based on various factors. We identified the business problem, obtained and cleaned the data, applied various machine learning algorithms, and evaluated the performance of each algorithm. By following this methodology, we were able to develop a reliable and accurate model that can be used by healthcare providers to improve patient outcomes.
