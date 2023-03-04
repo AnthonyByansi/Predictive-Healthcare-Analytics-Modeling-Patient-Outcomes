@@ -22,3 +22,7 @@ In the data understanding phase, we obtained the necessary data and performed ex
 ## Data Preparation
 
 In the data preparation phase, we cleaned the data, handled missing values and outliers, and performed feature engineering to create new features that may be relevant for predicting patient outcomes. We also split the data into training and testing sets to prepare for the modeling phase.
+
+## Modeling
+
+In the modeling phase, we applied various machine learning algorithms, including logistic regression, decision tree, neural network, and random forest, to the training data. We fine-tuned the hyperparameters of each algorithm using cross-validation to obtain the best possible performance.
