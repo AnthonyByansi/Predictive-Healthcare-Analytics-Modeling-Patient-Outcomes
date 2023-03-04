@@ -19,3 +19,11 @@ The project will follow the following approach:
 * Gather and preprocess data: The project will collect data on patients' demographics, comorbidities, treatments, and any other relevant variables. It will preprocess the data by cleaning and transforming it to prepare it for analysis.
 
 * Select a modeling approach: The project will choose an appropriate machine learning algorithm for predicting the outcome. Some commonly used algorithms include logistic regression, decision trees, random forests, and neural networks
+
+* Train the model: The project will split the data into training and testing sets and use the training set to train the model. The goal is to find a model that accurately predicts the outcome based on the input variables.
+
+* Evaluate the model: The project will use the testing set to evaluate the performance of the model. Common evaluation metrics include accuracy, precision, recall, and F1 score.
+
+* Refine the model: If the model performance is not satisfactory, the project will refine the model by tweaking hyperparameters, feature selection, or feature engineering.
+
+* Deploy the model: Once the project has developed a model that meets the desired performance metrics, it will deploy the model into the clinical workflow. The model can help providers tailor treatment plans to individual patients and improve overall outcomes.
