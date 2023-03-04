@@ -42,3 +42,6 @@ The project timeline is as follows:
 * Modeling and evaluation: 6 weeks
 * Model refinement and deployment: 2 weeks
 * Documentation and reporting: 2 weeks
+
+## Team
+The project will be carried out by a team of data scientists, healthcare professionals, and software engineers. The team will work together to ensure that the models developed are accurate, reliable, and effective in improving patient outcomes
