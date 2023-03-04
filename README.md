@@ -34,3 +34,11 @@ The project will deliver the following:
 * A well-documented codebase for developing and deploying the predictive models.
 * A report summarizing the project's methodology, findings, and conclusions.
 * A dashboard or visualization tool to help providers interpret the model's output and make informed decisions.
+
+## Timeline
+The project timeline is as follows:
+
+* Data collection and preprocessing: 2 weeks
+* Modeling and evaluation: 6 weeks
+* Model refinement and deployment: 2 weeks
+* Documentation and reporting: 2 weeks
