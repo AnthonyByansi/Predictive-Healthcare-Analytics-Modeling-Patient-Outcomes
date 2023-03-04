@@ -9,3 +9,7 @@ The goal of this project is to predict patient outcomes using various machine le
 * Evaluation
 * Deployment
 In this report, we will discuss each of these phases in more detail and explain how we applied them to our project.
+
+## Business Understanding
+
+In this phase, we identified the business problem that we are trying to solve. We defined the problem as predicting patient outcomes based on various factors such as demographics, comorbidities, and treatments. We then identified the stakeholders who would benefit from this prediction, which include healthcare providers, insurance companies, and patients themselves.
