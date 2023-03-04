@@ -30,3 +30,6 @@ In the modeling phase, we applied various machine learning algorithms, including
 ## Evaluation
 
 In the evaluation phase, we evaluated the performance of each model using various metrics, including accuracy, precision, recall, F1 score, and ROC AUC score. We compared the performance of each model and selected the best performing model to be deployed.
+
+## Deployment
+In the deployment phase, we deployed the best performing model and provided a user interface for healthcare providers to input patient data and obtain a prediction for patient outcomes.
