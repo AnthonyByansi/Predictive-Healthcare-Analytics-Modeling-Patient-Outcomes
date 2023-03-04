@@ -11,3 +11,12 @@ Before training the predictive models, we preprocessed the data by performing th
 * Removed duplicate records
 * Removed records with missing values
 * Converted categorical variables to numerical variables using one-hot encoding
+
+## Model Training and Evaluation
+We trained four different predictive models: logistic regression, decision tree, neural network, and random forest. For each model, we evaluated its performance using the following metrics:
+
+* Accuracy
+* Precision
+* Recall
+* F1 Score
+* ROC AUC Score
